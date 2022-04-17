@@ -22,6 +22,10 @@ Analysis and Algebra books from ***Jean-Marie Monier*** aimed from classes prép
 **Analyse** from Laurent Schwartz (stopped in the middle of 3rd part), classic reference book covering topology, differential calculus and geometry, and measure theory <br>
 *and of course a lot of exercices books*
 
+***2003-2006 : Licence, Maîtrise de Mathématiques Fondamentales (3rd and 4th university years in Mathematics)*** <br>
+I shifted to mathematics for my self-preparation goals to the ENS entrance exams. I had more chances this way. I discovered that I love mathematics as much as Physics. I was in trouble with such a love triangle. <br>
+I also started to learn Russian :ru: and got so passionate that I failed my 1st exams for my maîtrise and had to retry. <br>
+My failure to the ENS exams discouraged me and after 3years of intensive maths training, I needed to learn something else and started Russian. <br>
 
 CONTINUE HERE
 
