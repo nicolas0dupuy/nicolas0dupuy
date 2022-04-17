@@ -15,8 +15,14 @@ My **biggest difficulty : to choose what I want to do**
 During those 2 years, I aquired solid pre-graduate fundamentals in **Newton Mechanics, Electromagnetism, Thermodynamics, Fluid Mechanics, Special Relativity, Quantum Mechanics**<br>
 I also had minors in **Chemistry, Mathematics** <br>
 📚 I learned a lot from books. I prepared for the entrance exam to the **École Normale Supérieure** which normaly requires a special preparation in elite schools I wasn't accepted in,
-so I decided to train by myself (Spoiler alert : I failed... 😁).
-**Books I learned during those 2 years** :
+so I decided to train by myself (Spoiler alert : I failed... 😁). <br>
+**Books I learned during those 2 years** : <br>
+***Berkeley Physics Course*** including Purcell's very good electromagnetism introduction. <br>
+Analysis and Algebra books from ***Jean-Marie Monier*** aimed from classes préparatoires aux grandes écoles <br>
+**Analyse** from Laurent Schwartz (stopped in the middle of 3rd part), classic reference book covering topology, differential calculus and geometry, and measure theory <br>
+*and of course a lot of exercices books*
+
+
 CONTINUE HERE
 
 
