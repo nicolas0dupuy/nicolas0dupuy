@@ -22,18 +22,21 @@ Analysis and Algebra books from ***Jean-Marie Monier*** aimed from classes prép
 **Analyse** from Laurent Schwartz (stopped in the middle of 3rd part), classic reference book covering topology, differential calculus and geometry, and measure theory <br>
 *and of course a lot of exercices books*
 
-***2003-2006 : Licence, Maîtrise de Mathématiques Fondamentales (3rd and 4th university years in Mathematics)*** <br>
+***2002-2005 : Licence, Maîtrise de Mathématiques Fondamentales (3rd and 4th university years in Mathematics)*** <br>
 I shifted to mathematics for my self-preparation to the ENS exams. I had more chances this way. I discovered that I love mathematics as much as Physics. This was the start of a love triangle with difficult choices to make. <br>
-I also started to learn Russian :ru: and got so passionate that I failed my 1st exams for my maîtrise and had to retry it. <br>
+I also started to learn Russian and got so passionate that I failed my 1st exams for my maîtrise and had to retry it. <br>
 My failure to the ENS exams discouraged me and after 3years of intensive maths training, I needed to learn something else and started Russian. <br>
 I learned Russian in the Inalco (institute of eastern languages) with around 14 hours a week repartited in grammar, written and oral expression, pronounciation lab. <br>
 **Books I learned during those 3 years** : <br>
 I didn't give up Physics and audit to various courses. I deepened topics such as ***quantum mechanics*** by studying classics like
 ***Bohm***'s , ***Cohen Tannoudji***. I also discovered lately ***Feynman's Physics course*** which I started reading again at the time I'm writing. I wanted to understand ***General Relativity*** and learned ***Missner Thorne and Wheeler*** for that. <br>
 I loved differential geometry so I learned from authors like ***Petersen*** and because I also loved abstract algebra, I learned ***Algebra*** from Serges Lang. <br>
-I also started to learned by practicing small homemade numerical simulations in C mainly (but not only, Caml, Maple, Mathematica...)
+I also started to learned by practicing small homemade numerical simulations in C mainly (or in Caml, Maple, Mathematica)
 
-CONTINUE HERE
+***2005-2010 : Master degree Sciences des Matériaux et Nano-objets*** <br>
+Those years were a period of doubts, where I mostly worked as a private maths teacher. I have cumulated hundreds of students of every level from middle school to university.
+Meanwhile I first attempted to pass a Master degree in Fundamental Mathematics and failed 2 attempts because of my irregularity. It still gave me thinking methods that helps me today. <br>
+I made up my mind when I decided to go for a Ph D in Physics and passed a Master in Material Science.
 
 
 
