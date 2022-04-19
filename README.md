@@ -24,8 +24,11 @@ Analysis and Algebra books from ***Jean-Marie Monier*** aimed from classes prép
 
 ***2002-2005 : Licence, Maîtrise de Mathématiques Fondamentales (3rd and 4th university years in Mathematics)*** <br>
 I shifted to mathematics for my self-preparation to the ENS exams. I had more chances this way. I discovered that I love mathematics as much as Physics. This was the start of a love triangle with difficult choices to make. <br>
+During those years, I had a pretty good start and was one of the top students in 3rd year ***Algebra*** (group theory mainly, and less affine and projective geometry)
+and ***topology*** (abstract topological spaces). I had my downs then in the second semester and was just ok with ***Measure theory and holomorphic functions***, or ***Differential calculus*** and ***ordinary differential equations***.
+In 4th year, I deepened ***Algebra*** (Rings, Polynomial extensions and Galois theory), ***Differential geometry***, ***Functional analysis and Spectral theory***. <br>
 I also started to learn Russian and got so passionate that I failed my 1st exams for my maîtrise and had to retry it. <br>
-My failure to the ENS exams discouraged me and after 3years of intensive maths training, I needed to learn something else and started Russian. <br>
+My failure to the ENS exams discouraged me and after 3 years of intensive maths training, I needed to learn something else and started Russian. <br>
 I learned Russian in the Inalco (institute of eastern languages) with around 14 hours a week repartited in grammar, written and oral expression, pronounciation lab. <br>
 **Books I learned during those 3 years** : <br>
 I didn't give up Physics and audit to various courses. I deepened topics such as ***quantum mechanics*** by studying classics like
@@ -33,10 +36,15 @@ I didn't give up Physics and audit to various courses. I deepened topics such as
 I loved differential geometry so I learned from authors like ***Petersen*** and because I also loved abstract algebra, I learned ***Algebra*** from Serges Lang. <br>
 I also started to learned by practicing small homemade numerical simulations in C mainly (or in Caml, Maple, Mathematica)
 
-***2005-2010 : Master degree Sciences des Matériaux et Nano-objets*** <br>
-Those years were a period of doubts, where I mostly worked as a private maths teacher. I have cumulated hundreds of students of every level from middle school to university.
+***2005-2011 : Master degree Sciences des Matériaux et Nano-objets*** <br>
+Those years were a period of doubts, where I mostly worked as a private maths teacher. I have cumulated hundreeds of students of different levels from middle school to university.
 Meanwhile I first attempted to pass a Master degree in Fundamental Mathematics and failed 2 attempts because of my irregularity. It still gave me thinking methods that helps me today. <br>
-I made up my mind when I decided to go for a Ph D in Physics and passed a Master in Material Science.
+I made up my mind when I decided to go for a Ph. D. in Physics and passed a Master in Material Science. <br>
+Topics included ***Magnetism***, ***Surface electronics***, ***solid state physics***, ***chemistry***, and ***numerical simulations***.
+It was challenging for me because I hadn't learned material science before and I passed this degree in two years. Meanwhile I sliwly decrease the number of students I was teaching because I wanted to success in finding a
+subject that matters to me for my Ph. D.
+
+CONTINUE
 
 
 
