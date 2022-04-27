@@ -1,3 +1,5 @@
+<a href="https://github.com/nicolas0dupuy/nicolas0dupuy/edit/main/README.md#about-me">About me</a>
+
 # About me
 
 👋 Hi, I’m @nicolas0dupuy
