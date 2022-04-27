@@ -1,4 +1,7 @@
-<a href="https://github.com/nicolas0dupuy/nicolas0dupuy/edit/main/README.md#about-me">About me</a>
+# Sections
+
+<a href="https://github.com/nicolas0dupuy/nicolas0dupuy/edit/main/README.md#about-me">Few lines about me</a><br>
+<a href="https://github.com/nicolas0dupuy/nicolas0dupuy/edit/main/README.md#my-academic-background">My academic background in details</a><br>
 
 # About me
 
