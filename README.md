@@ -53,7 +53,21 @@ I looked for a subject having components in Mathematics, Physics and involve num
 Doing research requires a lot of patience to handle new tools, understand new theory, prepare simulations, monitor them, correct them when they are misconfigured (which happens a lot when you are clumsy as I am!), and when it gives results (fortunately it does!) process, gather, and understand them. <br>
 I was lucky because I had a very patient advisor. It is difficult to supervise a student which is not standard, because traditional recipes doesn't match the situation. I got my first (and only at this stage) research papers. English writing was challenging. Although I love foreign languages, writting a scientific paper is already difficult in my own language, but adding the necessity to write in a clean and professional English, and of course keeping working on my theories, made the task very requiring to me. I also learned a lot both mathematicaly and in Physics, since not only the theory involved many thematics from material science (such as electronic and spin correlations, symmetry properties), the employed methods required also a strong mathematical understanding of specific Monte Carlo methods implying also an understanding of the partial differential equation they solve and the numerical approximation they use. 
 
-CONTINUE
+# Languages
+
+My native language is French. I was rather a *scientific* person than *literary*, but thanks to my parents I had reading habbits in my childhood which prevented me from closing myself excessively to mathematics. It almost happened when I was in 3rd university year, and I suddently felt the need to open my mind to philosophy and languages. It started with th Russian languages. I wanted to learn it since my teenagehood when I was a compulsive chess player (I apologise for the cliché). After that, I started to love hearing new sounds, new way to formulate ideas, and started to study a little too much of too many different languages...
+
+## English
+
+English was my secondary foreign language in high school. I have started to improve it only when I needed to read academic books in mathematics and physics. Only later, I also started to be more interested in literature and to make the effort to read English text (maybe around when I was 25 years old, and began to do my first trips abroad, and met English people in youth hostel making me interested). Now, I am trying to maintain it. I maybe lack regular practice, and although I have been at a C1 level of understanding last summer, I am currently thinking about a way to improve my own speaking. Indeed, even in Franch I sometime struggle finding my words, so I need to double the efforts in a foreign language. Meanwhile, fortunately, learning is always fun to me.
+
+## Russian
+
+Russian is a language I started to learn after my 3rd university year. I tried to learn it in parallel with my 4th year of matematics, but got too passionated that I failed my exams. I studied russian in the INALCO, which is the French institute for eastern language, but also teaches many languages from around the globe, which are less taughed in other university (including slavic, nordic, african languages). I even stopped reading maths books only during my commute time to learn russian poetry by heart.
+
+## German
+
+German was my 1st foreign language in high school. I started to learn it already in elementary school thanks to a very devoted teacher who took many positive initiatives. Although I love German, I had stopped practicing it for too long, and I am only learning it again since few months (at the day I am writing).
 
 
 
