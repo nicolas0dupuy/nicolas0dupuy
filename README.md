@@ -41,7 +41,7 @@ I didn't give up Physics and audit to various courses. I deepened topics such as
 I loved differential geometry so I learned from authors like ***Petersen*** and because I also loved abstract algebra, I learned ***Algebra*** from Serges Lang. <br>
 I also started to learned by practicing small homemade numerical simulations in C mainly (or in Caml, Maple, Mathematica)
 
-***2005-2012 : Master degree Sciences des Matériaux et Nano-objets*** <br>
+***2005-2010 + 2010-2012 : Master degree Sciences des Matériaux et Nano-objets*** <br>
 Those years were a period of doubts, where I mostly worked as a private maths teacher. I have cumulated hundreeds of students of different levels from middle school to university.
 Meanwhile I first attempted to pass a Master degree in Fundamental Mathematics and failed 2 attempts because of my irregularity. It still gave me thinking methods that helps me today. <br>
 I made up my mind when I decided to go for a Ph. D. in Physics and passed a Master in Material Science. <br>
@@ -49,8 +49,9 @@ Topics included ***Magnetism***, ***Surface electronics***, ***solid state physi
 It was challenging for me because I hadn't learned material science before and I passed this degree in two years. Meanwhile I slowly decrease the number of students I was teaching to prepare toward a Ph. D. <br>
 
 ***2012-2016 : Doctorate in Material Science - Numerical computation of the electronic states of the acene family by Quantum Monte Carlo methods*** <br>
-I looked for a subject having components in Mathematics, Physics and involve numericaal computation. I had been offered this opportunity and it was the beginning of 3 and a half challenfing years. <br>
-Doing research requires a lot of patience to handle new tools, understand new theory, prepare simulations, CONTINUE
+I looked for a subject having components in Mathematics, Physics and involve numerical computation. I had been offered this opportunity and it was the beginning of 3 and a half challenfing years. <br>
+Doing research requires a lot of patience to handle new tools, understand new theory, prepare simulations, monitor them, correct them when they are misconfigured (which happens a lot when you are clumsy as I am!), and when it gives results (fortunately it does!) process, gather, and understand them. <br>
+I was lucky because I had a very patient advisor. It is difficult to supervise a student which is not standard, because traditional recipes doesn't match the situation. I got my first (and only at this stage) research papers. English writing was challenging. Although I love foreign languages, writting a scientific paper is already difficult in my own language, but adding the necessity to write in a clean and professional English, and of course keeping working on my theories, made the task very requiring to me. I also learned a lot both mathematicaly and in Physics, since not only the theory involved many thematics from material science (such as electronic and spin correlations, symmetry properties), the employed methods required also a strong mathematical understanding of specific Monte Carlo methods implying also an understanding of the partial differential equation they solve and the numerical approximation they use. 
 
 CONTINUE
 
